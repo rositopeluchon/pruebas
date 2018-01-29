@@ -3,12 +3,12 @@ var promise= new Promise (function (resolve, reject){
 
     if(resole)
     {
-        resolve("This shit is happennig");
+        resolve("This stuff is happennig");
 
 
     }else{
 
-        
+
         reject(Error("it broke"));
 
     }
